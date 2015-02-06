@@ -1,4 +1,5 @@
-*** Dishwasher reminder for SmartThings
+Dishwasher Reminder app for SmartThings
+===
 
 I often find in the morning that I forgot to load and schedule dishwasher for overnight for overnight washing.
 
